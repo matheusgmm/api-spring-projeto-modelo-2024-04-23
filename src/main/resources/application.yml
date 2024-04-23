@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: api-spring-projeto-modelo-2024-04-23
+  profiles:
+    active: test
+  jpa:
+    open-in-view: false
